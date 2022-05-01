@@ -1,13 +1,15 @@
 <template>
-    <div class="w-full bg-dark-gray flex flex-col py-20">
+    <div id="Personal" class="w-full bg-dark-gray flex flex-col py-20">
         <div class="container mx-auto text-left text-white px-5 lg:px-0">
             <div class="text-xl lg:text-3xl mb-5 font-sans uppercase">Personal</div>
 
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-5 lg:gap-8">
 
-                <div class="flex flex-col rounded-3xl bg-silver-gray">
+                <div class="flex flex-col rounded-3xl bg-silver-gray shadow-lg">
                     <div class="text-center py-2 text-red-500 font-bold">Don't</div>
-                    <hr class="">
+                    <div class="opacity-30 shadow-lg">
+                        <hr>
+                    </div>
                     <div class="flex flex-row justify-center py-5 lg:py-8">
                         <div class="flex flex-col items-center">
                             <img class="h-16 rounded-full mx-5" src="@/assets/images/no-smoke.png" alt="">
@@ -24,9 +26,11 @@
                     </div>
                 </div>
 
-                <div class="flex flex-col rounded-3xl bg-silver-gray">
+                <div class="flex flex-col rounded-3xl bg-silver-gray shadow-lg">
                     <div class="text-center py-2 text-green-400 font-bold">Do</div>
-                    <hr class="">
+                    <div class="opacity-30 shadow-lg">
+                        <hr>
+                    </div>
                     <div class="flex flex-row justify-center py-5 lg:py-8">
                         <div class="flex flex-col items-center">
                             <img class="h-16 rounded-full mx-5" src="@/assets/images/piano.png" alt="">

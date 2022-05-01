@@ -1,5 +1,5 @@
 <template>
-    <div class="text-center bg-silver-gray pt-20 pb-28">
+    <div id="Education" class="text-center bg-silver-gray pt-20 pb-28">
         <div class="container mx-auto text-left text-white px-5 lg:px-0">
             <div class="flex flex-row justify-center pb-10">
                 <img class="bg-silver-gray w-1/4 lg:w-1/6" src="@/assets/images/edu.png" alt="">

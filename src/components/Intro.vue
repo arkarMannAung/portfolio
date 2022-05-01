@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-184 sm:h-208 lg:h-184 bg-silver-gray flex flex-col justify-end">
+  <div id="Intro" class="w-full h-184 sm:h-208 lg:h-184 bg-silver-gray flex flex-col justify-end">
     <div class="lg:container lg:mx-auto flex flex-col lg:flex-row lg:items-end">
       <div class="flex flex-1 justify-center">
         <div class="w-72 h-72 sm:w-104 sm:h-104 lg:w-112 lg:h-112 rounded-full bg-circle shadow-2xl">
@@ -34,7 +34,7 @@
           <div class="flex-1 py-2 bg-green-400 w-44 text-sm lg:text-base lg:w-52 rounded-sm font-sans text-center font-bold mb-8 shadow-2xl">Front-End Developer</div>
           <div class="flex-1 h-full text-white text-2xl lg:text-4xl py-1 lg:py-2 tracking-widest font-sans">Talk is cheap.</div>
           <div class="flex-1 h-full text-white text-2xl lg:text-4xl py-1 lg:py-2 tracking-widest font-sans">Show me the code</div>
-          <div class="flex-1 h-full text-text-gray text-sm mx-5 lg:mx-0 lg:text-xl pt-5 pb-10 lg:pb-0 lg:pt-10 font-mono tracking-wide">I design and code beautifully simple things.<br>and I Love what I do.</div>
+          <div class="flex-1 h-full text-text-gray text-sm mx-5 lg:mx-0 lg:text-xl pt-5 pb-10 lg:pb-0 lg:pt-10 font-mono tracking-wide">I design and code beautifully simple things. And I Love what I do.</div>
         </div>
       </div>
     </div>
