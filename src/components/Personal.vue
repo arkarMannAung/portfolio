@@ -1,5 +1,5 @@
 <template>
-    <div id="Personal" class="w-full bg-dark-gray flex flex-col py-20">
+    <div id="Personal" class="w-full bg-dark-gray flex flex-col py-20 lg:py-32">
         <div class="container mx-auto text-left text-white px-5 lg:px-0">
             <div class="text-xl lg:text-3xl mb-5 font-sans uppercase">Personal</div>
 
