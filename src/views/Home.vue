@@ -1,11 +1,13 @@
 <template>
   <Navbar/>
-  <Intro/>
-  <Introduce/>
-  <Resumes/>
-  <Personal/>
-  <Contact/>
-  <Footer/>
+  <div @click="onDrop=false">  
+    <Intro/>
+    <Introduce/>
+    <Resumes/>
+    <Personal/>
+    <Contact/>
+    <Footer/>
+  </div>
 </template>
 
 <script>
@@ -20,6 +22,11 @@ import Navbar from '@/components/Navbar.vue'
 
 export default {
   name: 'HomeView',
+  data(){
+    return {
+      onDrop: false,
+    }
+  },
   components: {
     Intro,
     Introduce,

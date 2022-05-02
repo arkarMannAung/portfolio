@@ -7,7 +7,7 @@
 
             <div class="text-xl lg:text-3xl mb-5">MY EDUCATION</div>
 
-            <div class="p-5 bg-dark-gray rounded-lg mb-5 shadow-lg">
+            <div class="p-5 bg-dark-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl mb-10 lg:mb-12 shadow-lg">
                 <!-- Title -->
                 <div class="text-sm lg:text-lg mb-2">BACHELOR OF SCIENCE IN MATHEMATICS</div>
                 <!-- Body -->
@@ -17,7 +17,7 @@
                 </div>
             </div>
 
-            <div class="p-5 bg-dark-gray rounded-lg mb-5 shadow-lg">
+            <div class="p-5 bg-dark-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl mb-10 lg:mb-12 shadow-lg">
                 <!-- Title -->
                 <div class="text-sm lg:text-lg mb-2">LEVEL 3 TECHNICIAN DIPLOMA IN CONSTRUCTION</div>
                 <!-- Body -->
@@ -27,7 +27,7 @@
                 </div>
             </div>
 
-            <div class="p-5 bg-dark-gray rounded-lg mb-5 shadow-lg">
+            <div class="p-5 bg-dark-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl mb-10 lg:mb-12 shadow-lg">
                 <!-- Title -->
                 <div class="text-sm lg:text-lg mb-2">LEVEL 5 ADVANCED TECHNICIAN DIPLOMA IN CIVIL ENGINEERING</div>
                 <!-- Body -->
@@ -40,12 +40,12 @@
             <!-- Other Certis -->
             <div class="text-xl lg:text-3xl my-5 uppercase">other certificate</div>
             
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-0 lg:gap-7">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-0 lg:gap-12">
                 
-                <div class="p-5 bg-dark-gray rounded-lg mb-5 shadow-lg">
+                <div class="p-5 bg-dark-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl mb-10 lg:mb-0 shadow-lg">
                     <!-- Title -->
                     <div class="flex flex-row justify-between">
-                        <img class="w-24 lg:w-36 rounded-lg" src="@/assets/images/y-max.jpg" alt="">
+                        <img class="w-24 lg:w-36 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl" src="@/assets/images/y-max.jpg" alt="">
                         <div class="flex-1 flex flex-col justify-between items-start ml-3 lg:ml-6">
                             <div class="text-md lg:text-xl uppercase text-green-400">fundamentals of java</div>
                             <div class="text-xs lg:text-sm text-yellow-600">04 July 2020</div>
@@ -58,10 +58,10 @@
                     </div>
                 </div>
                 
-                <div class="p-5 bg-dark-gray rounded-lg mb-5 shadow-lg">
+                <div class="p-5 bg-dark-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl mb-10 lg:mb-0 shadow-lg">
                     <!-- Title -->
                     <div class="flex flex-row justify-between">
-                        <img class="w-24 lg:w-36 rounded-lg" src="@/assets/images/shizuoka.jpg" alt="">
+                        <img class="w-24 lg:w-36 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl" src="@/assets/images/shizuoka.jpg" alt="">
                         <div class="flex-1 flex flex-col justify-between items-start ml-3 lg:ml-6">
                             <div class="text-md lg:text-xl uppercase text-green-400">Japanese N5 + N4</div>
                             <div class="text-xs lg:text-sm text-yellow-600">2020年　10月　30日</div>
@@ -74,10 +74,10 @@
                     </div>
                 </div>
                 
-                <div class="p-5 bg-dark-gray rounded-lg mb-5 shadow-lg">
+                <div class="p-5 bg-dark-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl mb-10 lg:mb-0 shadow-lg">
                     <!-- Title -->
                     <div class="flex flex-row justify-between">
-                        <img class="w-24 lg:w-36 rounded-lg" src="@/assets/images/shizuoka.jpg" alt="">
+                        <img class="w-24 lg:w-36 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl" src="@/assets/images/shizuoka.jpg" alt="">
                         <div class="flex-1 flex flex-col justify-between items-start ml-3 lg:ml-6">
                             <div class="text-md lg:text-xl uppercase text-green-400">Japanese N3 Online</div>
                             <div class="text-xs lg:text-sm text-yellow-600">2020年　12月　31日</div>
@@ -90,10 +90,10 @@
                     </div>
                 </div>
                 
-                <div class="p-5 bg-dark-gray rounded-lg mb-5 shadow-lg">
+                <div class="p-5 bg-dark-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl mb-10 lg:mb-0 shadow-lg">
                     <!-- Title -->
                     <div class="flex flex-row justify-between">
-                        <img class="w-24 lg:w-36 rounded-lg" src="@/assets/images/mmit.jpg" alt="">
+                        <img class="w-24 lg:w-36 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl" src="@/assets/images/mmit.jpg" alt="">
                         <div class="flex-1 flex flex-col justify-between items-start ml-3 lg:ml-6">
                             <div class="text-md lg:text-xl uppercase text-green-400">PHP WEB DEVELOPER BOOTCAMP</div>
                             <div class="text-xs lg:text-sm text-yellow-600">08 Jan 2021</div>
@@ -106,10 +106,10 @@
                     </div>
                 </div>
 
-                <div class="p-5 bg-dark-gray rounded-lg mb-5 shadow-lg">
+                <div class="p-5 bg-dark-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl mb-10 lg:mb-0 shadow-lg">
                     <!-- Title -->
                     <div class="flex flex-row justify-between">
-                        <img class="w-24 lg:w-36 rounded-lg" src="@/assets/images/jlpt.png" alt="">
+                        <img class="w-24 lg:w-36 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl" src="@/assets/images/jlpt.png" alt="">
                         <div class="flex-1 flex flex-col justify-between items-start ml-3 lg:ml-6">
                             <div class="text-md lg:text-xl uppercase text-green-400">JLPT N4</div>
                             <div class="text-xs lg:text-sm text-yellow-600">2022年　1月　13日</div>
@@ -122,13 +122,13 @@
                     </div>
                 </div>
 
-                <div class="p-5 bg-dark-gray rounded-lg mb-5 shadow-lg">
+                <div class="p-5 bg-dark-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl mb-10 lg:mb-0 shadow-lg">
                     <!-- Title -->
                     <div class="flex flex-row justify-between">
-                        <img class="w-24 lg:w-36 rounded-lg" src="@/assets/images/fairway.png" alt="">
+                        <img class="w-24 lg:w-36 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl" src="@/assets/images/fairway.png" alt="">
                         <div class="flex-1 flex flex-col justify-between items-start ml-3 lg:ml-6">
                             <div class="text-md lg:text-xl uppercase text-green-400">Professional Web Developer Course</div>
-                            <div class="text-xs lg:text-sm text-yellow-600">-- May 2022</div>
+                            <div class="text-xs lg:text-sm text-yellow-600">07 May 2022</div>
                             <div class="text-xs lg:text-sm">Fairway Technology</div>
                             <div 
                                 class="border-2 p-1 text-sm rounded-lg cursor-pointer text-green-400 border-green-400"
@@ -142,7 +142,7 @@
 
             <div class="flex flex-row justify-center mt-10 lg:mt-20">
                 <div 
-                    class="bg-gradient-to-br from-green-400 to-green-600 py-2 px-3 cursor-pointer uppercase"
+                    class="rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl bg-gradient-to-br from-green-400 to-green-600 py-3 px-4 cursor-pointer uppercase"
                     onclick="window.open('certis/ARKAR-MANN-AUNG.pdf', '_blank', 'fullscreen=yes'); return false;"
                 >Download CV</div>
             </div>

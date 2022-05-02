@@ -2,7 +2,8 @@
     <div id="Introduce" class="w-full bg-dark-gray flex flex-col">
         <div class="flex flex-col-reverse lg:flex-row my-20 lg:my-36 container mx-auto">
             <div class="flex-1 lg:mr-10 mx-5 lg:mx-0 pt-20 lg:pt-0">
-                <div class="bg-silver-gray rounded-md p-5 shadow-2xl mb-6">
+                
+                <div class="bg-silver-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl p-5 shadow-2xl mb-12">
                     <div class="flex flex-row">
                         <img class="w-6 h-6 mr-2" src="@/assets/images/flutter.png" alt="">
                         <div class="text-green-500 font-sans font-bold text-xl">Flutter</div>
@@ -19,17 +20,17 @@
                         <div class="flex-1 flex flex-col">
                             <div class="text-left font-sans text-green-500">Arrow Delivery Service<span class="text-xs text-text-gray"> (Feb 13, 2022)</span></div>
                             <div class="lg:mr-3 text-justify font-sans text-sm text-text-gray">
-                                Android Delivery Service အတွက် Development ပြုလုပ်နေတဲ့ ကျနော့မိတ်ဆွေတွေက Backend Api နဲ့ Web-App ပြီးစိးသွားပြီးတော့ Mobile App အတွက် အနဲငယ် urgent လိုချင်တဲ့အနေအထားမှာ ရေးပေးဖြစ်ခဲ့ပါတယ်။ Backend ဘက်က Api Docs ပြည့်ပြည့်စုံစုံရှိနေခြင်း၊ NetWork Api အတွက် Retrofit Package နဲ့ State ကို အတွက် Getx စတာတွေအသုံးပြုထားတာကြောင့် အချိန်တိုအတွင်း ပြီးစီးခဲ့ပါတယ်။
+                                Delivery Service အတွက် Delivery Men အသုံးပြုမယ့် App လေးမှာ Flutter ကိုအသုံးပြုပြီး Android App လေးရေးသားပေးခဲ့ပါတယ်။ Backend Developer ဘက်က Api ကိုယူပြီးတော့ Reactive App လေးဖြစ်အောင်ရေးသားခဲ့ပါတယ်။၊ NetWork Api အတွက် Retrofit Package နဲ့ State အတွက် Getx စတဲ့ Dependency တွေအသုံးပြုထားပါတယ်။
                             </div>
                         </div>
                         <div class="mb-2 lg:mb-0">
-                            <img class="h-28 rounded-md shadow-xl" src="@/assets/images/ads_deli.png" alt="">
+                            <img class="h-28 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl shadow-xl" src="@/assets/images/ads_deli.png" alt="">
                         </div>
                     </div>
                     <div class="text-left text-gray-400 mt-5 mb-2">My Own Product</div>
                     <a href="https://play.google.com/store/apps/details?id=com.arkar.n5n4kanji" class="flex flex-col lg:flex-row items-center lg:items-start">
                         <div class="mb-2 lg:mb-0">
-                            <img class="h-28 rounded-md shadow-xl" src="@/assets/images/n5n4.jpg" alt="">
+                            <img class="h-28 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl shadow-xl" src="@/assets/images/n5n4.jpg" alt="">
                         </div>
                         <div class="flex-1 flex flex-col">
                             <div class="text-left lg:ml-3 font-sans text-green-500">N5N4 Kanji 1k+ Download<span class="text-xs text-text-gray"> (Jul 16, 2021)</span></div>
@@ -40,7 +41,7 @@
                     </a>
                 </div>
 
-                <div class="bg-silver-gray rounded-md p-5 shadow-2xl mb-6">
+                <div class="bg-silver-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl p-5 shadow-2xl mb-12">
                     <div class="flex flex-row">
                         <img class="w-6 h-6 mr-2 bg-white rounded-full" src="@/assets/images/vue.png" alt="">
                         <div class="text-green-500 font-sans font-bold text-xl">Vue.Js</div>
@@ -60,12 +61,12 @@
                             </div>
                         </div>
                         <div class="mb-2 lg:mb-0">
-                            <img class="h-28 rounded-md shadow-xl" src="@/assets/images/jlpt_n4.png" alt="">
+                            <img class="h-28 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl shadow-xl" src="@/assets/images/jlpt_n4.png" alt="">
                         </div>
                     </a>
                 </div>
 
-                <div class="bg-silver-gray rounded-md p-5 shadow-2xl">
+                <div class="bg-silver-gray rounded-tl-3xl rounded-bl-md rounded-tr-md rounded-br-3xl p-5 shadow-2xl">
                     <div class="flex flex-row">
                         <img class="w-6 h-6 mr-2 bg-white rounded-full" src="@/assets/images/php.jpg" alt="">
                         <div class="text-green-300 font-sans font-bold text-xl">PHP / <span class="text-green-300">Laravel</span></div>
@@ -80,7 +81,7 @@
                     <div class="text-left text-gray-400 pt-5 mb-2">Project For Client <span class="text-xs text-green-500"> ( ongoing)</span></div>
                     <a href="#" class="flex flex-col lg:flex-row items-center lg:items-start">
                         <div class="mb-2 lg:mb-0">
-                            <img class="h-28 rounded-md shadow-xl pt-1" src="@/assets/images/jlc.png" alt="">
+                            <img class="h-28 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl shadow-xl pt-1" src="@/assets/images/jlc.png" alt="">
                         </div>
                         <div class="flex-1 flex flex-col">
                             <div class="lg:ml-3 text-left font-sans text-green-500">Japanese Language School Management System</div>
