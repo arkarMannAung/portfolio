@@ -78,19 +78,18 @@
                     <div class="text-white text-justify font-sans text-sm py-2">
                         ထုတ်ကုန်က ဈေးကွက်ထဲ မြန်မြန်ရောက်ဖို့၊ လုံခြုံရေးကိစ္စတွေနဲ့ လုပ်သင့်လုပ်ထိုက်တာ မှန်သမျှကို နောက်ကွယ်ကနေ အဆင်သင့် ပံ့ပိုးပေးလိုက်တာတွေက developer တွေအတွက်နှစ်သက်စရာတစ်ခုပါ။ code တွေကပိုတိုသွားပြီးတော့ ထိရောက်တဲ့လုပ်ဆောင်ချက်တွေကို ထောက်ပံ့ပေးထားတဲ့နည်းပညာတစ်ခုဖြစ်ပါတယ်။
                     </div>
-                    <div class="text-left text-gray-400 pt-5 mb-2">Project For Client <span class="text-xs text-green-500"> ( ongoing)</span></div>
-                    <a href="#" class="flex flex-col lg:flex-row items-center lg:items-start">
+                    <div class="text-left text-gray-400 pt-5 mb-2">Project For Client <span class="text-xs text-green-500">(Jul21, 2022)</span></div>
+                    <a href="https://www.shizuoka-jlc.com" class="flex flex-col lg:flex-row items-center lg:items-start">
                         <div class="mb-2 lg:mb-0">
-                            <img class="h-28 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl shadow-xl pt-1" src="@/assets/images/jlc.png" alt="">
+                            <img class="h-28 rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl shadow-xl pt-1" src="@/assets/images/jlc.jpg" alt="">
                         </div>
                         <div class="flex-1 flex flex-col">
                             <div class="lg:ml-3 text-left font-sans text-green-500">Japanese Language School Management System</div>
                             <div class="lg:ml-3 lg:mr-3 text-justify font-sans text-sm text-text-gray">
-                                သင်တန်းကျောင်းရဲ့ လက်ရှိအချိန်ထိတောက်ပတဲ့ ပုံရိပ်တွေကို ဖော်ပြပေးမယ့် Home ホム ၊လက်ရှိသင်ကြားနေဆဲသင်တန်းနဲ့ နောက်ဖွင့်မယ့် အတန်းတွေရဲ့ Time Lime တွေကို ပြသပေးမယ့် Class 教室၊ သင်တန်းသားများသာ login ဝင်ပြီးဖြေဆိုလို့ရမယ့် Test テスト　နဲ့ Marketing အတွက် အပြင်ကျောင်းသားများပါ ဖြေဆိုလေ့ကျင့်နိုင်မယ့် Test テスト။ ထို့အပြင် ဖြေဆိုသူတွေရဲ့ Ranking တွေကို home page တွင်ပြသပေးခြင်း။                                
+                                Shizuoka Japanese Language Center ရဲ့ web portal တစ်ခုဖြစ်ပါတယ်။ ဒီသင်တန်းရဲ့ကျောင်းသားတိုင်းစီအတွက် သူတို့ရဲ့ certificate ပါတဲ့ profile စာမျက်နှာတစ်ခုစီပါရှိမှာပါ။ သင်တန်းက အသစ်ဖွင့်မယ့်သင်တန်းတွေကိုလည်း online register လုပ်လို့ရနိုင်မယ့်အပြင် online test တွေအတွက် မေးခွန်းတွေထုတ်ဖို့အတွက် function တွေပါဝင်ပါတယ်။
                             </div>
                             <div class="lg:ml-3 lg:mr-3 text-justify font-sans text-sm text-text-gray pt-2">
-                                ဂျပန်စာမေးခွန်းထည့်သွင်းခြင်းအတွက် kanji စာလုံးများအပေါ်မှာ furigana အလွယ်တစ်ကူရေးလို့ရမယ့်အပြင် Text decoration စတာတွေကို အလွယ်တစ်ကူ တည်းဖြတ်နိုင်မယ့် Add Questions Tool ထောက်ပံ့ပေးထားမယ့် Admin Panel။
-                                ဘာသာစကားဆိုင်ရာဗဟုသုတများ ရေးသားပြီး အလွယ်တစ်ကူး Share ပြုလုပ်နိုင်ဖို့ Blogs Section တွေပါဝင်ပါတယ်။
+                                ကိုယ့်စိတ်ကြိုက် ရေးသားလို့ရမယ့် text editor ဖြင့် blog တွေရေးသားလို့ရမှာပါ။ class တွေကို စိတ်ကြိုက် customize ပြုလုပ်နိုင်မှာဖြစ်ပြီးတော့ ကျောင်းသားတွေကို စာမေးပွဲမေးခွန်းနဲ့ ဖြေဆိုရမည့်သတ်မှတ်ရက်များကို ကြိုတင်သတ်မှတ်ထားနိုင်ပြီးတော့ system မှ ရလဒ်(အမှတ်) များကို အလိုအလျှောက်ထုတ်ပြန်သွားမည်ဖြစ်ပါသည်။
                             </div>
                         </div>
                     </a>

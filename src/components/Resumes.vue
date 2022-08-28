@@ -132,20 +132,39 @@
                             <div class="text-xs lg:text-sm">Fairway Technology</div>
                             <div 
                                 class="border-2 p-1 text-sm rounded-lg cursor-pointer text-green-400 border-green-400"
-                                onclick="window.open('certis/Nihon/jlpt-n4.pdf', '_blank', 'fullscreen=yes'); return false;"
+                                onclick="window.open('certis/proweb.jpg', '_blank', 'fullscreen=yes'); return false;"
                             >Certificate</div>
                         </div>
                     </div>
                 </div>
 
             </div>
-
-            <div class="flex flex-row justify-center mt-10 lg:mt-20">
+            <div class="grid grid-cols-1 gap-10 md:grid-cols-2 mt-10 lg:mt-20">
+                <div class="flex flex-row justify-center ">
+                    <div 
+                        class="rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl bg-gradient-to-br from-green-400 to-green-600 py-3 px-4 cursor-pointer uppercase　w-44 text-center"
+                        onclick="window.open('certis/ARKAR-MANN-AUNG.pdf', '_blank', 'fullscreen=yes'); return false;"
+                    >Download CV</div>
+                </div>
+                <div class="flex flex-row justify-center">
+                    <div 
+                        class="rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl bg-gradient-to-br from-red-400 to-red-600 py-3 px-4 cursor-pointer uppercase　w-44 text-center"
+                        onclick="window.open('certis/Rirekisho-履歴書-ArkarMannAung.pdf', '_blank', 'fullscreen=yes'); return false;"
+                    >履歴書</div>
+                </div>
+            </div>
+            <!-- <div class="flex flex-row justify-center ">
                 <div 
-                    class="rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl bg-gradient-to-br from-green-400 to-green-600 py-3 px-4 cursor-pointer uppercase"
+                    class="rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl bg-gradient-to-br from-green-400 to-green-600 py-3 px-4 cursor-pointer uppercase　w-44 text-center"
                     onclick="window.open('certis/ARKAR-MANN-AUNG.pdf', '_blank', 'fullscreen=yes'); return false;"
                 >Download CV</div>
             </div>
+            <div class="flex flex-row justify-center mt-10 lg:mt-20">
+                <div 
+                    class="rounded-tl-2xl rounded-bl-sm rounded-tr-sm rounded-br-2xl bg-gradient-to-br from-red-400 to-red-600 py-3 px-4 cursor-pointer uppercase　w-44 text-center"
+                    onclick="window.open('certis/Rirekisho-履歴書-ArkarMannAung.pdf', '_blank', 'fullscreen=yes'); return false;"
+                >履歴書</div>
+            </div> -->
         </div>
     </div>
 </template>
